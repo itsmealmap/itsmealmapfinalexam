@@ -1,0 +1,21 @@
+#card{
+	background-image: url(../motor.png);
+	background-repeat: no-repeat;
+	background-color: pink;
+	margin:auto;
+	height:280px;
+	width: 470px;
+}
+.container{
+	background-color:#87ceeb ;
+	margin-bottom: : 2px;
+	padding-top: 6px;
+	margin-top: 50px;
+	height: 410px;
+	width: 520px;
+}
+h1{
+	text-align: center;
+	color: black;
+	font-family: Time New Roman;
+}
